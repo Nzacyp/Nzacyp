@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nzacyp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Cyprien
+- 👀 I’m interested in software engeneering
+- 🌱 I’m currently learning Software engineering.
+- 💞️ I’m looking to collaborate on ICT
+- 📫 you can reach me by twitter@cyprienza
 
 <!---
 Nzacyp/Nzacyp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
